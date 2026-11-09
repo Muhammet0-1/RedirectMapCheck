@@ -1,0 +1,14 @@
+from,to,status
+/old-guide,/guides,301
+/guides,/learn,308
+/loop-a,/loop-b,302
+/loop-b,/loop-a,307
+/entry,/loop-a,301
+/same,/same,301
+/duplicate,/done,301
+/duplicate,/done,301
+/conflict,/one,301
+/conflict,/two,308
+/blocked,/conflict,302
+/Case,/case,301
+/case/,/Case/,308

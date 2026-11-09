@@ -1,0 +1,3 @@
+from,to,status
+/old-guide,/new-guide,301
+/unsupported,https://example.test/target,301
